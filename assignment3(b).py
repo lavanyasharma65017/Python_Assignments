@@ -9,3 +9,4 @@ print("Square root :",sq)
 print("Logarithm :",log)
 
 print("Sine:",sin)
+
